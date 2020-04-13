@@ -1,0 +1,2 @@
+.vs
+./AdventOfCodeDay10/.vs
